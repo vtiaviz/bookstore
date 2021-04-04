@@ -1,0 +1,142 @@
+.mt {
+    margin-top: 15px;
+}
+
+.mt2 {
+    margin-top: 20px;
+}
+
+.mt3 {
+    margin-top: 25px;
+}
+
+.mb {
+    margin-bottom: 15px;
+}
+
+.logo {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+    padding: 20px 0 10px 0;
+}
+
+.carousel-item img {
+    width: 80%;
+}
+
+hr {
+    width: 400px;
+}
+
+.head {
+    opacity: 0.8;
+}
+
+.logo a {
+    text-decoration: none;
+    padding-left: 10px;
+}
+
+.logo span {
+    padding-right: 10px;
+}
+
+.livro {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 85%;
+    height: 500px !important;
+    display: flex;
+	justify-content: center;	
+}
+
+.img {
+    background-image: url("../img/book-2.png") !important;
+}
+
+.img1 {
+    background-image: url("../img/book-1.png") !important;
+}
+
+.img2 {
+    background-image: url("../img/book-4.png") !important;
+}
+
+.img3 {
+    background-image: url("../img/book-3.png") !important;
+}
+
+.img4 {
+    background-image: url("../img/book.png") !important;
+}
+
+.livro .label {
+    width: 100%;
+    margin-top: 30px;
+    margin-bottom: 5px;
+    font-size: 12px;
+    color: lightgray;
+    height: 20px;
+}
+
+.livro .autor {
+    width: 100%;
+    height: 20px;
+    margin: none;
+    padding: none;
+    font-size: 20px;
+    color: lightgray;
+}
+.livro .titulo {
+    width: 50%;
+    margin-top: auto;
+    margin-bottom: 30px;
+    margin-left: 25%;
+    font-size: 50px;
+    color: lightgray;
+    align-items: center;
+    line-height: 1.1;
+}
+
+.livro .editora {
+    width: 100%;
+    font-size: 20px;
+    color: lightgray;
+}
+
+.area {
+    color: #fff;
+    padding: 15px 5px 10px 20px;
+    display: flex;
+	justify-content: center;
+    align-items: center;
+    width: 100%;
+    opacity: 0.8;
+}
+.area:hover {
+    color: #fff;
+    opacity: 1;
+    text-decoration: none;
+}
+
+.area i {
+    padding-right: 10px;
+}
+
+.link {
+    color: #fff;
+    margin-left: 3%;
+    opacity: 0.8;
+    
+}
+
+.link:hover {
+    color: #fff;
+    opacity: 1;
+}
+
+.cor1 {
+    color: blue !important;
+}
